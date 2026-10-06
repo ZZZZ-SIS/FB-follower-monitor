@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.db
+*.db-shm
+*.db-wal
+browser_profile/
+page_name_debug_*.txt
+build/
+dist/
+*.spec

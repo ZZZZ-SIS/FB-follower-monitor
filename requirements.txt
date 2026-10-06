@@ -1,0 +1,3 @@
+# Original installer has no version constraints; lock selection is pending.
+PyQt6
+playwright
